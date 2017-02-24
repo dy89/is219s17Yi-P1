@@ -36,7 +36,7 @@ h6 {
     padding-bottom: 50px;
     text-align: center;
     color: #f8f8f8;
-    background: url(../img/intro-bg.jpg) no-repeat center center;
+    background: url(../img/NYC.jpg) no-repeat center center;
     background-size: cover;
 }
 
@@ -116,12 +116,11 @@ h6 {
     float: center;
     width: 200px;
     border-top: 3px solid #696969;
-    font-family: "aw-conqueror-didot";
 }
 .banner {
     padding: 100px 0;
     color: #f8f8f8;
-    background: url(../img/contactbanner.jpg) no-repeat center center;
+    background: url(../img/gwb-banner1.jpg) no-repeat center center;
     background-size: cover;
     filter: contrast(80%);
 }
@@ -183,3 +182,9 @@ p.copyright {
     color:#6A5ACD;
 }
 
+.bg-1 { 
+    padding-top: 0px; /* If you're making other pages, make sure there is 50px of padding to make sure the navbar doesn't overlap content! */
+    padding-bottom: 0px;
+    background: url(../img/gwb-banner.jpg) no-repeat center center;
+    filter:contrast(80%);
+}

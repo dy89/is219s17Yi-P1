@@ -188,3 +188,6 @@ p.copyright {
     background: url(../img/gwb-banner.jpg) no-repeat center center;
     filter:contrast(80%);
 }
+.font1{
+    font-family: 'Playfair Display SC', serif;
+}

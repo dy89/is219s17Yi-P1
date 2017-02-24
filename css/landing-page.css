@@ -110,18 +110,19 @@ h6 {
 .section-heading-spacer {
     float: left;
     width: 200px;
-    border-top: 3px solid #FFD700;
+    border-top: 3px solid #696969;
 }
 .section-heading-spacer1 {
     float: center;
     width: 200px;
-    border-top: 3px solid #FFD700;
+    border-top: 3px solid #696969;
 }
 .banner {
     padding: 100px 0;
     color: #f8f8f8;
-    background: url(../img/banner-bg.jpg) no-repeat center center;
+    background: url(../img/contactbanner.jpg) no-repeat center center;
     background-size: cover;
+    filter: contrast(80%);
 }
 
 .banner h2 {
@@ -180,3 +181,4 @@ p.copyright {
 .school2 h1 {
     color:#6A5ACD;
 }
+

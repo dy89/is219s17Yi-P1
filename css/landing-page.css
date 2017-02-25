@@ -197,8 +197,12 @@ p.copyright {
 .job1{
     background: url(../img/job1.jpg) no-repeat center center;
     background-size: cover;
-    
-}
-.lead1{
+    text-shadow: 2px 2px 3px rgba(0,0,0,0.6);
     color:#FF4500;
+}
+.job2{
+    background: url(../img/job2.jpg) no-repeat center center;
+    background-size: cover;
+    text-shadow: 2px 2px 3px rgba(0,0,0,0.6);
+    color:#B8860B;
 }

@@ -197,11 +197,8 @@ p.copyright {
 .job1{
     background: url(../img/job1.jpg) no-repeat center center;
     background-size: cover;
-    filter:contrast(50%);
-    filter:brightness(50%);
     
 }
-.bar1{
-    filter:contrast(50%);
-    filter:brightness(50%);
+.lead1{
+    color:#FF4500;
 }
